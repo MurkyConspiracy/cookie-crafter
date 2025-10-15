@@ -21,6 +21,10 @@
     {
       "folder": "Gameplay Concepts",
       "template": "_templates/Gameplay Concept.md"
+    },
+    {
+      "folder": "Lore",
+      "template": "_templates/Lore Concept.md"
     }
   ],
   "enable_file_templates": false,

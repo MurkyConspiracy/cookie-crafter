@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Gameplay Concepts/Gameplay Chains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gameplay Chains"
+            }
+          },
+          {
+            "id": "396c48490068a09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Gameplay Concepts/Resource Collection.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Resource Collection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2db4bea12fed638",
+  "active": "396c48490068a09f",
   "lastOpenFiles": [
+    "Gameplay Concepts/The Binding Bake.md",
+    "Gameplay Concepts/Gameplay Chains.md",
+    "Cookie Assembly.md",
     "Gameplay Concepts/Cookie Typing (Bases).md",
+    "Lore/The Whispering Whisk.md",
+    "Lore/The Frosted Covenant.md",
+    "Lore/The Order of the Golden Crust.md",
+    "_templates/Lore Concept.md",
+    "Lore",
     "Gameplay Concepts/Resource Collection.md",
+    "Gameplay Concepts/Ornament Passives.md",
     "Dev Logs/Dev Log 2025-10-14 122213.md",
     "_templates/Gameplay Concept.md",
     "Gameplay Concepts",
