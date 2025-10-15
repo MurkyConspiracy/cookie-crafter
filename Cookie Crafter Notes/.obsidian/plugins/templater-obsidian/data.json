@@ -38,7 +38,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "_templates/Devlog.md",
-    "_templates/Gameplay Concept.md"
+    "_templates/Gameplay Concept.md",
+    "_templates/Lore Concept.md"
   ],
   "startup_templates": [
     ""

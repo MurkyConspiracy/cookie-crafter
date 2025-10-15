@@ -2,5 +2,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-icon-folder",
-  "dataview"
+  "dataview",
+  "folder-notes"
 ]

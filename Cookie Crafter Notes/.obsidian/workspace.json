@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "d4690e2741572ca7",
+    "id": "0f6a8a2c381a252f",
     "type": "split",
     "children": [
       {
-        "id": "945c88ee98e376af",
+        "id": "1681a5576d7feda7",
         "type": "tabs",
         "children": [
           {
-            "id": "1dbd0e9d2fc54d4b",
+            "id": "c2db4bea12fed638",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay Concepts/Gameplay Chains.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gameplay Chains"
+            }
+          },
+          {
+            "id": "396c48490068a09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay Concepts/Resource Collection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resource Collection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "27d0096ecb6867d6",
+    "id": "612298bdef1547cb",
     "type": "split",
     "children": [
       {
-        "id": "b4c2ef1bcffe7175",
+        "id": "bc91080694c02878",
         "type": "tabs",
         "children": [
           {
-            "id": "b157ea03e971ed50",
+            "id": "e84fdec4c124d001",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +63,7 @@
             }
           },
           {
-            "id": "6c4dfd5029c181fd",
+            "id": "a339f695c6593f0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +80,7 @@
             }
           },
           {
-            "id": "73719226e9b62723",
+            "id": "2b2e218d70ecd985",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "b2539d8f49f382a2",
+    "id": "48d3679e30589f1f",
     "type": "split",
     "children": [
       {
-        "id": "a5cca7f952137ab8",
+        "id": "31a3132906242264",
         "type": "tabs",
         "children": [
           {
-            "id": "c642c4c08d94f702",
+            "id": "e774be8490da29a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay Concepts/Resource Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Resource Collection"
             }
           },
           {
-            "id": "32eb8cecf9a520d4",
+            "id": "2e1c3e253af5303b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay Concepts/Resource Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Resource Collection"
             }
           },
           {
-            "id": "8e875db30aa04c99",
+            "id": "cede2de04f23cedc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +152,18 @@
             }
           },
           {
-            "id": "24e63e207120b6f7",
+            "id": "c295ef3496931485",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Gameplay Concepts/Resource Collection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Resource Collection"
             }
           }
         ]
@@ -153,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,6 +185,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "1dbd0e9d2fc54d4b",
-  "lastOpenFiles": []
+  "active": "396c48490068a09f",
+  "lastOpenFiles": [
+    "Scenes/Application/main_menu.tscn",
+    "Scenes/Application",
+    "Scenes",
+    "project.godot2378717.tmp",
+    "Gameplay Concepts/The Binding Bake.md",
+    "Gameplay Concepts/Gameplay Chains.md",
+    "Cookie Assembly.md",
+    "Gameplay Concepts/Cookie Typing (Bases).md",
+    "Lore/The Whispering Whisk.md",
+    "Lore/The Frosted Covenant.md",
+    "Lore/The Order of the Golden Crust.md",
+    "_templates/Lore Concept.md",
+    "Lore",
+    "Gameplay Concepts/Resource Collection.md",
+    "Gameplay Concepts/Ornament Passives.md",
+    "Dev Logs/Dev Log 2025-10-14 122213.md",
+    "_templates/Gameplay Concept.md",
+    "Gameplay Concepts",
+    "icon.svg",
+    "_templates/Dev Log.md",
+    "Dev Logs",
+    "_templates"
+  ]
 }

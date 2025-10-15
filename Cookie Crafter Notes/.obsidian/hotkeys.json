@@ -16,5 +16,14 @@
       ],
       "key": "G"
     }
+  ],
+  "templater-obsidian:create-_templates/Lore Concept.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }
