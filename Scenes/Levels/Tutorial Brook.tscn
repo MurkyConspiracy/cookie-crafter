@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=4 uid="uid://0x7fks7hm3tw"]
+
+[ext_resource type="Shader" uid="uid://3cpw8oa65qo0" path="res://Assets/Shaders/SnowBackground.gdshader" id="1_4d3bc"]
+[ext_resource type="TileSet" uid="uid://chfq2kp46gwo8" path="res://Scenes/Levels/Components/Snow Terrain.tres" id="2_w4ux8"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_80dih"]
+shader = ExtResource("1_4d3bc")
+shader_parameter/darkness = 0.5
+
+[node name="TutorialBrook" type="Node2D"]
+
+[node name="TileSets" type="Node" parent="."]
+
+[node name="SnowBackground" type="TileMapLayer" parent="TileSets"]
+material = SubResource("ShaderMaterial_80dih")
+tile_map_data = PackedByteArray("AAAEAAEAAQAAAAAAAAAEAAIAAQAAAAIAAAAFAAMAAQABAAMAAAAGAAMAAQADAAMAAAAHAAQAAQABAAMAAAAIAAQAAQACAAMAAAAJAAQAAQADAAMAAAAKAAUAAQABAAMAAAALAAUAAQACAAIAAAAMAAUAAQACAAMAAAANAAUAAQADAAIAAAANAAQAAQAAAAEAAAANAAMAAQADAAAAAAAMAAMAAQACAAMAAAALAAIAAQAAAAAAAAALAAMAAQABAAEAAAALAAQAAQAAAAEAAAA=")
+tile_set = ExtResource("2_w4ux8")
+
+[node name="SnowForground" type="TileMapLayer" parent="TileSets"]
+tile_map_data = PackedByteArray("AAAIAAcAAQABAAMAAAAJAAcAAQACAAMAAAAKAAcAAQADAAMAAAALAAgAAQABAAMAAAAMAAgAAQADAAIAAAAMAAcAAQABAAAAAAANAAcAAQACAAMAAAAOAAcAAQADAAMAAAA=")
+tile_set = ExtResource("2_w4ux8")

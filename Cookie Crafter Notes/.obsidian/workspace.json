@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay Concepts/Resource Collection.md",
+                "file": "Gameplay Concepts/Cookie Typing (Bases).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resource Collection"
+              "title": "Cookie Typing (Bases)"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "396c48490068a09f",
   "lastOpenFiles": [
+    "Gameplay Concepts/Resource Collection.md",
     "Scenes/Application/main_menu.tscn",
     "Scenes/Application",
     "Scenes",
@@ -200,7 +201,6 @@
     "Lore/The Order of the Golden Crust.md",
     "_templates/Lore Concept.md",
     "Lore",
-    "Gameplay Concepts/Resource Collection.md",
     "Gameplay Concepts/Ornament Passives.md",
     "Dev Logs/Dev Log 2025-10-14 122213.md",
     "_templates/Gameplay Concept.md",

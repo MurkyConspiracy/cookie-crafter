@@ -11,10 +11,10 @@ config_version=5
 [application]
 
 config/name="Cookie Crafter"
-run/main_scene="uid://bnksumkkxsiwm"
+run/main_scene="uid://bx38l5lurqrfx"
 config/features=PackedStringArray("4.5", "Forward Plus")
-boot_splash/bg_color=Color(0.2707171, 0.045731068, 0.061631262, 1)
-config/icon="res://icon.svg"
+boot_splash/image="uid://dx3h7nq5exfca"
+config/icon="uid://dx3h7nq5exfca"
 
 [display]
 
